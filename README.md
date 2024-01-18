@@ -93,7 +93,7 @@ Feel free to explore the source code to gain a deeper understanding of how HTML,
 
 Understanding the flow of the Rolling Dice Game is essential for players and developers alike. The following flow chart provides a visual representation of the main steps and decision points within the game:
 
-[Dice Game Flow Chart](assets/img/-game-flowchart.png)
+[Dice Game Flow Chart](assets/img/rolling-dice-game-flowchart.png)
 
 ### Flow Chart Explanation
 
