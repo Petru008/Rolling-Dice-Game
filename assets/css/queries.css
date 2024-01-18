@@ -1,5 +1,5 @@
 @media only screen and (max-width: 768px) {
-  main {
+  #main {
     flex-direction: column;
     height: auto;
   }
