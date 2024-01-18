@@ -12,9 +12,11 @@ html {
 body {
   font-family: "Nunito", sans-serif;
   font-weight: 400;
-  height: 100vh;
+  height: 100%;
   color: #333;
   background-image: linear-gradient(to top left, #ade8f4 0%, #023e8a 100%);
+  background-repeat: no-repeat;
+  background-size: cover;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -185,7 +187,7 @@ body {
 #main--how--to--play {
   display: inline-block;
   width: 80dvh;
-  height: 70dvh;
+  height: auto;
 }
 
 nav {
