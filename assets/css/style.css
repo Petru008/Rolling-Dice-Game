@@ -209,7 +209,7 @@ a:hover {
 
 .how--to--play {
   display: flex;
-  align-items: left;
+  align-items: start;
   justify-content: center;
   flex-direction: column;
   padding: 1.3rem 0;
