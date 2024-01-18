@@ -89,6 +89,10 @@
   .score {
     font-size: 5rem;
   }
+
+  .body {
+    height: auto;
+  }
 }
 
 @media only screen and (max-width: 450px) {

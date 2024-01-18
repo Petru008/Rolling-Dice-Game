@@ -12,7 +12,7 @@ html {
 body {
   font-family: "Nunito", sans-serif;
   font-weight: 400;
-  height: 100%;
+  height: 100vh;
   color: #333;
   background-image: linear-gradient(to top left, #ade8f4 0%, #023e8a 100%);
   background-repeat: no-repeat;
@@ -188,6 +188,21 @@ body {
   display: inline-block;
   width: 80dvh;
   height: auto;
+}
+
+.body {
+  body {
+    font-family: "Nunito", sans-serif;
+    font-weight: 400;
+    height: auto;
+    color: #333;
+    background-image: linear-gradient(to top left, #ade8f4 0%, #023e8a 100%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
 }
 
 nav {
