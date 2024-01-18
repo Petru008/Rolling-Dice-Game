@@ -46,6 +46,12 @@
     top: 36rem;
     height: 8rem;
   }
+
+  /*** HOW TO PLAY PAGE ***/
+  .how--to--play {
+    width: 85%;
+    padding-left: 1rem;
+  }
 }
 
 @media only screen and (max-width: 590px) {

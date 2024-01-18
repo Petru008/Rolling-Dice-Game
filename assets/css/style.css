@@ -22,7 +22,7 @@ body {
 
 /*** LAYOUT ***/
 
-main {
+#main {
   position: relative;
   width: 100rem;
   height: 60rem;
@@ -178,4 +178,62 @@ main {
 
 .hidden {
   display: none;
+}
+
+/*** HOW TO PLAY PAGE ***/
+
+#main--how--to--play {
+  display: inline-block;
+  width: 80dvh;
+  height: 70dvh;
+}
+
+nav {
+  background-color: transparent;
+  padding: 10px;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1000;
+}
+
+a {
+  color: #03045e;
+  text-decoration: none;
+  font-size: 2rem;
+}
+a:hover {
+  color: #90e0ef;
+}
+
+.how--to--play {
+  display: flex;
+  align-items: left;
+  justify-content: center;
+  flex-direction: column;
+  padding: 1.3rem 0;
+  font-weight: 400;
+  width: 100%;
+}
+
+.title {
+  font-size: 3.5rem;
+  align-items: center;
+  text-align: center;
+  font-weight: 700;
+  padding: 3rem 0;
+  color: #03045e;
+}
+
+.sub--title {
+  font-size: 1.8rem;
+  color: #03045e;
+}
+
+li {
+  list-style: none;
+  padding: 0.6rem 0;
+  font-size: 1.5rem;
+  color: #000;
 }
