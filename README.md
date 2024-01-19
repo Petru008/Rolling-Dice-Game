@@ -18,6 +18,7 @@ Welcome to the Rolling Dice Game! This simple and entertaining game involves rol
 - [Fonts](#fonts)
 - [Colors](#colors)
 - [Icons](#icons)
+- [Attribution](#attribution)
 
 ## Features
 
@@ -166,3 +167,9 @@ The color scheme of the Rolling Dice Game is carefully curated to create an appe
 We use the following icons resources to build this project:
 
 - [Font Awesome](#https://fontawesome.com/icons)
+
+  
+## Attribution 
+
+- Code for sticky navigation was partially used from: [W3Schools](#https://www.w3schools.com/howto/howto_js_navbar_sticky.asp)
+- Part of the project was inspired from: [James Schmedtmann](#https://github.com/jonasschmedtmann/complete-javascript-course/tree/master/07-Pig-Game)
